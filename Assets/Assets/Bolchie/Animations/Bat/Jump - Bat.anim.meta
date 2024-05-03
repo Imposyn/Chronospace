@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c688e07de1312a64db5bc29b334c39d9
+timeCreated: 1517531726
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Animations/Bat/Jump - Bat.anim
+  uploadId: 235535

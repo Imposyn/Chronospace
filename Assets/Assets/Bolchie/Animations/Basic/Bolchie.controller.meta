@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8c31b6628645c3b4495e6695f734eaa8
+timeCreated: 1517516216
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Animations/Basic/Bolchie.controller
+  uploadId: 235535

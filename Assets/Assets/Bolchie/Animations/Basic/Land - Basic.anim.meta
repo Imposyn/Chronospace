@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ac8981f9b5ba7fe44a4031da4a00b286
+timeCreated: 1517516711
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Animations/Basic/Land - Basic.anim
+  uploadId: 235535

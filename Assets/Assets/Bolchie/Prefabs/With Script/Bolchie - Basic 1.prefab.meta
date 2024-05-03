@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d58e58070863f4a4e9a88c181489ff86
+timeCreated: 1521068692
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Prefabs/With Script/Bolchie - Basic 1.prefab
+  uploadId: 235535

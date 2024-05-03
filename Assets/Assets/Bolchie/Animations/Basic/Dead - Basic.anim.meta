@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 939e8da2026aa424582185752489dcf6
+timeCreated: 1517516289
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Animations/Basic/Dead - Basic.anim
+  uploadId: 235535

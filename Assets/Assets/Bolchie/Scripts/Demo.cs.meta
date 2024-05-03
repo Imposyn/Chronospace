@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 20b16551228cbc94a91368cac6dd55b3
+timeCreated: 1521054524
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Scripts/Demo.cs
+  uploadId: 235535

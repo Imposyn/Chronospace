@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 25caac6aa30b6164ba4a666f9ba3a7f5
+timeCreated: 1521140401
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Animations/Bat/[bat_00001] (imported)-bat_00001.png.controller
+  uploadId: 235535

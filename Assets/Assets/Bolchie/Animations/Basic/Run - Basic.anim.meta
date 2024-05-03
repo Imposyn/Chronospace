@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5416d53990f72604bae7847683531ea3
+timeCreated: 1517516173
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Animations/Basic/Run - Basic.anim
+  uploadId: 235535

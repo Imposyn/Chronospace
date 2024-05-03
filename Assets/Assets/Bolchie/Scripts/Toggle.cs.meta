@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a07816f7c6061ee42a7e623c9a3ff88b
+timeCreated: 1521132212
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Scripts/Toggle.cs
+  uploadId: 235535

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6fbc4e9891eaede42b3198f0026aabcf
+timeCreated: 1517516759
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Animations/Basic/Dead - Idle - Basic.anim
+  uploadId: 235535

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5957879eaf9c2644cb89c51a77af0ecb
+timeCreated: 1517531006
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Animations/Bat/Dead - Bat.anim
+  uploadId: 235535

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6fa9b83305c128241b460bfdb7afa880
+timeCreated: 1517516358
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Animations/Basic/Attack - Basic.anim
+  uploadId: 235535

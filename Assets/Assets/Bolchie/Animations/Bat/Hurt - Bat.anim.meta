@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 34a5c485cfbebb146bb8950986c59d7d
+timeCreated: 1517531455
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Animations/Bat/Hurt - Bat.anim
+  uploadId: 235535

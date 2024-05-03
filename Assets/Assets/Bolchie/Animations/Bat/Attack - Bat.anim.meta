@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 624ff0ea88cd08244934c0bc2c40b2c8
+timeCreated: 1517530737
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114179
+  packageName: 2D Character | Bolchie
+  packageVersion: 1.0
+  assetPath: Assets/Bolchie/Animations/Bat/Attack - Bat.anim
+  uploadId: 235535
